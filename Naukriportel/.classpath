@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/D Kotresh/Downloads/apache-tomcat-9.0.46-windows-x64.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/jar files/mysql-connector-java-8.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/jar files/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
